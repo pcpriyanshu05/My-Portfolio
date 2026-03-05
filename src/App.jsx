@@ -179,7 +179,7 @@ function Hero() {
 
   currentlyBuilding: [
     "MediVault 🏥",
-    "ATS Optimizer 🤖",
+    "CVForge AI 🤖",
     "Tree Visualizer 🌲",
   ],
 
@@ -342,7 +342,7 @@ const PROJECTS = [
     id: "ats",
     badge: "AI Product",
     emoji: "🤖",
-    title: "ATS Resume Optimizer",
+    title: "CVForge AI",
     subtitle: "AI-Powered Career Tool",
     description:
       "An intelligent system that parses resumes against job descriptions using NLP techniques. Gives candidates an ATS match score, missing keyword analysis, impact assessment, and an overall career readiness score.",
